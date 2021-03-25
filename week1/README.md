@@ -51,7 +51,7 @@ base 환경에서
 1. shift + enter(실행시키고 아래 셀로 이동)
 2. ctrl + enter(현재 셀 실행)
 
-# 다음주까지
+# 다음주까지 (20201-03-31)
 
 가상환경에서
 1. Install CUDA version match with your GPUs (https://mickael-k.tistory.com/18)
